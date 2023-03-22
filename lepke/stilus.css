@@ -1,0 +1,67 @@
+
+#nappalicím{
+    color: white;
+    text-align: center;
+}
+#éjjelicím{
+    color: black;
+    text-align: center;
+}
+#nappalibody{
+    background-color: #2F4F4F;
+}
+#div1{
+    background-image: url(kepek/hatter.jpg);
+    height: 390px;
+    width: 620px;
+    margin: auto;
+    padding: 15px;
+}
+#k1{
+    float:left;
+    padding-right: 10px;
+}
+#k2{
+    float: right;
+    padding-left: 5px;
+}
+#kisgif{
+    float: left;
+}
+#fentiszoveg{
+    text-align: left;
+    font-size: x-large;
+}
+#lentiszoveg{
+    padding: 10px;
+    text-align: left;
+    font-size: x-large;
+}
+.link{
+    float: left;
+}
+
+#div2{
+    background-color: #2F4F4F;
+    height: 390px;
+    width: 640px;
+    margin: auto;
+    padding: 15px;
+}
+#éjjelibody{
+    color: white;
+}
+#éjjeliszoveg{
+    font-size: x-large;
+    text-align: left;
+}
+#k3{
+    float: left;
+    padding-right: 10px;
+}
+#nappalilink{
+    color: black;
+}
+#éjjelilink{
+    color: white;
+}

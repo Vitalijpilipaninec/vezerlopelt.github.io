@@ -1,0 +1,13 @@
+body{
+    color: #003399;
+}
+.div{
+    width: 700px;
+    background-color: #EEEECC;
+    margin: auto;
+    padding: 15px;
+    overflow: auto;
+}
+img{
+    float: right;
+}
